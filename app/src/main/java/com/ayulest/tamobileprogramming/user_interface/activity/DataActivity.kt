@@ -1,16 +1,14 @@
-package com.ayulest.tamobileprogramming.ui.activity
+package com.ayulest.tamobileprogramming.user_interface.activity
 
 import android.os.Bundle
 import android.support.v4.view.ViewPager
 import android.support.v7.app.AppCompatActivity
 import com.ayulest.tamobileprogramming.R
-import com.ayulest.tamobileprogramming.ui.fragment.JadwalKuliahFragment
-import com.ayulest.tamobileprogramming.ui.fragment.ProfileFragment
-import com.ogaclejapan.smarttablayout.BuildConfig
+import com.ayulest.tamobileprogramming.user_interface.fragment.JadwalKuliahFragment
+import com.ayulest.tamobileprogramming.user_interface.fragment.ProfileFragment
 import com.ogaclejapan.smarttablayout.SmartTabLayout
 import com.ogaclejapan.smarttablayout.utils.v4.FragmentPagerItemAdapter
 import com.ogaclejapan.smarttablayout.utils.v4.FragmentPagerItems
-import kotlinx.android.synthetic.main.activity_main.*
 
 class DataActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

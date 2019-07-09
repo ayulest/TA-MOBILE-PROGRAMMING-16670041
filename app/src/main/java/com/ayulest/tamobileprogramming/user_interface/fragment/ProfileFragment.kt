@@ -1,4 +1,4 @@
-package com.ayulest.tamobileprogramming.ui.fragment
+package com.ayulest.tamobileprogramming.user_interface.fragment
 
 import android.content.ActivityNotFoundException
 import android.content.Intent
@@ -17,7 +17,6 @@ import com.ayulest.tamobileprogramming.rest.ApiClient
 import com.ayulest.tamobileprogramming.rest.ApiService
 import com.bumptech.glide.Glide
 import de.hdodenhof.circleimageview.CircleImageView
-import kotlinx.android.synthetic.main.profile_fragment.*
 import kotlinx.android.synthetic.main.profile_fragment.view.*
 import rx.android.schedulers.AndroidSchedulers
 import rx.schedulers.Schedulers

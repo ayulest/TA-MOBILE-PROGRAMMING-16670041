@@ -1,4 +1,4 @@
-package com.ayulest.tamobileprogramming.ui.activity
+package com.ayulest.tamobileprogramming.user_interface.activity
 
 import android.annotation.SuppressLint
 import android.os.Bundle

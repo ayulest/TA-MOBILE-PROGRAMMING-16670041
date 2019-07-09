@@ -10,7 +10,7 @@ import android.view.ViewGroup
 import com.ayulest.tamobileprogramming.R
 import com.ayulest.tamobileprogramming.helper.Config
 import com.ayulest.tamobileprogramming.model.ModelDataItem
-import com.ayulest.tamobileprogramming.ui.activity.DetailJadwalActivity
+import com.ayulest.tamobileprogramming.user_interface.activity.DetailJadwalActivity
 import kotlinx.android.synthetic.main.list_jadwal_kuliah.view.*
 
 class JadwalAdapter(val dataItem: ArrayList<ModelDataItem>, val context: FragmentActivity?) :

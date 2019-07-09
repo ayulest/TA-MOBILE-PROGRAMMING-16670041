@@ -1,4 +1,4 @@
-package com.ayulest.tamobileprogramming.ui.fragment
+package com.ayulest.tamobileprogramming.user_interface.fragment
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
